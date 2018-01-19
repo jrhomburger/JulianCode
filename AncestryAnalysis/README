@@ -1,0 +1,7 @@
+These are a collection of utilities useful in population genetics
+ancestry analysis. These have been used throughout my academic
+work and papers.
+
+A small script for plotting population genetics data from ADMIXTURE
+and similar analyses. Used in the South America population genetics 
+paper, Homburger et. al. 2014 in PLOS Genetics. 

@@ -1,0 +1,4 @@
+Genomics is full of messy file formats with no standard tools.
+These utilities I wrote to convert some of those formats into
+others in a standardized fashion.
+
