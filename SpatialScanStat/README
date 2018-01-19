@@ -1,0 +1,8 @@
+This folder contains some code from the spatial scan analysis paper. This is Homburger et. al., PNAS, 2017.
+
+The R code contains the core implementation of the spatial scan functions based off Kulldorf et. al. 1997.
+It also contains code for performing this analysis on the surface of a protein.
+
+The Python code generates the graph representation of a protein from the MSMS files. The program MSMS calculates
+the solvent excluded surface of a protein. The Python code takes this surface, turns it into a graph, and 
+estimates surface distances between amino acid residues using that information. 
